@@ -1,4 +1,4 @@
-The answer to the problem is coded using Python 3.6 
+# The answer to the problem is coded using Python 3.6 
 # Get the value of N , s1 , s2 from the user
 
 N = int(input('Enter the value of N\n').strip())
