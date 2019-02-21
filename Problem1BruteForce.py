@@ -1,4 +1,4 @@
-p1.py
+
 import csv
 # This module is used for reading and writing CSV files
 
